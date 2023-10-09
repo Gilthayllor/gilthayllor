@@ -25,8 +25,8 @@
 <hr>
 
 <h1>
-  Minhas estatísticas 🔥
+  Estatísticas 🔥
 </h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilthayllor&show_icons=true&locale=en&layout=compact" alt="gilthayllor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilthayllor&" alt="gilthayllor" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilthayllor&" alt="gilthayllor" /></p>-->
