@@ -1,6 +1,6 @@
 <h1>Olá 👋</h1>
 <p>
-  Meu nome é Gilthayllor, sou um desenvolvedor .NET e gosto muito de aprender coisas novas sobre desenvolvimento de software. Trabalho há 4 anos com C# e sou apaixonado por essa linguagem de programação ❤️
+  Meu nome é Gilthayllor, sou um desenvolvedor .NET e gosto muito de aprender coisas novas sobre desenvolvimento de software. Trabalho há 5 anos com desenvolvimento .NET e amo muito essa stack ❤️
   </p> 
 
 <hr>  
