@@ -1,6 +1,6 @@
 <h1>Olá 👋</h1>
 <p>
-  Olá, meu nome é Gilthayllor, e sou um desenvolvedor apaixonado por .NET. Tenho uma sólida experiência de 5 anos nesse ecossistema e sou totalmente dedicado a aprimorar minhas habilidades e aprender constantemente. 🚀
+  Olá, meu nome é Gilthayllor, e sou um desenvolvedor apaixonado por .NET. Tenho uma sólida experiência de 5 anos nesse ecossistema e sou totalmente dedicado a aprimorar minhas habilidades e aprender constantemente 🚀
   </p> 
 
 <hr>  
@@ -17,7 +17,7 @@
 </h2>
 
 - 🧑🏻‍🎓 Bacharel em Ciência da Computação.
-- 🎂 Tenho 24 anos.
+- 🎂 Tenho 25 anos.
 - 💍 Sou casado.
 - 🌱 Sempre estou em busca de novos conhecimentos e tento aprender algo novo todos os dias.
 - 🎮 Nos fins de semana, você pode me encontrar jogando videogames.
