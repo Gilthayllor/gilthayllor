@@ -1,8 +1,6 @@
 <h1>Olá 👋</h1>
 <p>
   Olá, meu nome é Gilthayllor, e sou um desenvolvedor apaixonado por .NET. Tenho uma sólida experiência de 5 anos nesse ecossistema e sou totalmente dedicado a aprimorar minhas habilidades e aprender constantemente. 🚀
-
-  Atualmente, estou embarcando em uma emocionante jornada de compartilhar meu conhecimento e desenvolver minha criatividade ao lançar pelo menos uma nova aplicação no meu GitHub a cada semana. Estou ansioso para aprimorar ainda mais minha habilidade e ajudar a      comunidade de desenvolvedores. ❤️💻
   </p> 
 
 <hr>  
