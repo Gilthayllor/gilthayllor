@@ -1,6 +1,6 @@
 <h1>Olá 👋</h1>
 <p>
-  Olá, meu nome é Gilthayllor, e sou um desenvolvedor apaixonado por .NET. Tenho uma sólida experiência de 5 anos nesse ecossistema e sou totalmente dedicado a aprimorar minhas habilidades e aprender constantemente 🚀
+  Olá, meu nome é Gilthayllor, e sou um desenvolvedor apaixonado por .NET. Tenho uma sólida experiência de 6 anos nesse ecossistema e sou totalmente dedicado a aprimorar minhas habilidades e aprender constantemente 🚀
   </p> 
 
 <hr>  
