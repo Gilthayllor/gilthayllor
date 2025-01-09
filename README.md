@@ -17,7 +17,7 @@
 </h2>
 
 - 🧑🏻‍🎓 Bacharel em Ciência da Computação.
-- 🎂 Tenho 25 anos.
+- 🎂 Tenho 26 anos.
 - 💍 Sou casado.
 - 🌱 Sempre estou em busca de novos conhecimentos e tento aprender algo novo todos os dias.
 - 🎮 Nos fins de semana, você pode me encontrar jogando videogames.
